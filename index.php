@@ -1,3 +1,3 @@
 <?php
-echo "FIRST project google cloud php";
+echo "FIRST project heroku";
 ?>
