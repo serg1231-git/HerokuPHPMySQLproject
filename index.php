@@ -1,3 +1,3 @@
 <?php
-echo "FIRST project heroku";
+echo "PHP+MySQL project heroku";
 ?>
